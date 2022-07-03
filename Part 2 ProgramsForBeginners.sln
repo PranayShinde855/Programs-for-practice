@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert feet to meter", "Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert celcious to fahrenheit", "Convert celcious to fahrenheit\Convert celcious to fahrenheit.csproj", "{1F7FB3E7-1EC1-450D-B6B9-180ED5FC8D0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Armstrong Number Between Two Intervals", "Arm Strong number between two numbers\Armstrong Number Between Two Intervals.csproj", "{143A28CA-36CA-4794-A69E-37A1D484EB6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1F7FB3E7-1EC1-450D-B6B9-180ED5FC8D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F7FB3E7-1EC1-450D-B6B9-180ED5FC8D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F7FB3E7-1EC1-450D-B6B9-180ED5FC8D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{143A28CA-36CA-4794-A69E-37A1D484EB6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143A28CA-36CA-4794-A69E-37A1D484EB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143A28CA-36CA-4794-A69E-37A1D484EB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143A28CA-36CA-4794-A69E-37A1D484EB6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
