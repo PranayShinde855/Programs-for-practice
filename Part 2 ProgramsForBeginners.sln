@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Armstrong Number Between Tw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swapping Two Numbers without using third variable", "Swapping Two Numbers without using third variable\Swapping Two Numbers without using third variable.csproj", "{272101B5-8471-4036-B5CD-E2C64D5BADD9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recursion Program", "Recursion Program", "{611E153D-4B1D-4AD6-972A-C3789EA15948}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recusion", "Recusion\Recusion.csproj", "{3F2F0AC7-EB5F-4A24-B20D-D83FFD5A7B6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,9 +43,16 @@ Global
 		{272101B5-8471-4036-B5CD-E2C64D5BADD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{272101B5-8471-4036-B5CD-E2C64D5BADD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{272101B5-8471-4036-B5CD-E2C64D5BADD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F2F0AC7-EB5F-4A24-B20D-D83FFD5A7B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2F0AC7-EB5F-4A24-B20D-D83FFD5A7B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2F0AC7-EB5F-4A24-B20D-D83FFD5A7B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2F0AC7-EB5F-4A24-B20D-D83FFD5A7B6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3F2F0AC7-EB5F-4A24-B20D-D83FFD5A7B6B} = {611E153D-4B1D-4AD6-972A-C3789EA15948}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {61E35D6D-331F-4B5B-9696-F3384EC4D263}
