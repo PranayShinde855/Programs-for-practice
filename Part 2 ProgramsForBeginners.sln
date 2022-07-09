@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swapping Two Numbers using third variable", "Swapping Two Numbers using third variable\Swapping Two Numbers using third variable.csproj", "{2231D87D-CCD3-4B61-B45D-64685874E39B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Swapping Two Numbers using third variable", "Swapping Two Numbers using third variable\Swapping Two Numbers using third variable.csproj", "{2231D87D-CCD3-4B61-B45D-64685874E39B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert feet to meter", "Convert feet to meter\Convert feet to meter.csproj", "{95235AC7-04AE-43A3-80D4-37493F74F7C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert feet to meter", "Convert feet to meter\Convert feet to meter.csproj", "{95235AC7-04AE-43A3-80D4-37493F74F7C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert celcious to fahrenheit", "Convert celcious to fahrenheit\Convert celcious to fahrenheit.csproj", "{1F7FB3E7-1EC1-450D-B6B9-180ED5FC8D0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert celcious to fahrenheit", "Convert celcious to fahrenheit\Convert celcious to fahrenheit.csproj", "{1F7FB3E7-1EC1-450D-B6B9-180ED5FC8D0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Armstrong Number Between Two Intervals", "Arm Strong number between two numbers\Armstrong Number Between Two Intervals.csproj", "{143A28CA-36CA-4794-A69E-37A1D484EB6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Armstrong Number Between Two Intervals", "Arm Strong number between two numbers\Armstrong Number Between Two Intervals.csproj", "{143A28CA-36CA-4794-A69E-37A1D484EB6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swapping Two Numbers without using third variable", "Swapping Two Numbers without using third variable\Swapping Two Numbers without using third variable.csproj", "{272101B5-8471-4036-B5CD-E2C64D5BADD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{143A28CA-36CA-4794-A69E-37A1D484EB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{143A28CA-36CA-4794-A69E-37A1D484EB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{143A28CA-36CA-4794-A69E-37A1D484EB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{272101B5-8471-4036-B5CD-E2C64D5BADD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272101B5-8471-4036-B5CD-E2C64D5BADD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272101B5-8471-4036-B5CD-E2C64D5BADD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272101B5-8471-4036-B5CD-E2C64D5BADD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
