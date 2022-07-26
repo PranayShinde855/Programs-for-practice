@@ -11,11 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert celcious to fahrenh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Armstrong Number Between Two Intervals", "Arm Strong number between two numbers\Armstrong Number Between Two Intervals.csproj", "{143A28CA-36CA-4794-A69E-37A1D484EB6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swapping Two Numbers without using third variable", "Swapping Two Numbers without using third variable\Swapping Two Numbers without using third variable.csproj", "{272101B5-8471-4036-B5CD-E2C64D5BADD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Swapping Two Numbers without using third variable", "Swapping Two Numbers without using third variable\Swapping Two Numbers without using third variable.csproj", "{272101B5-8471-4036-B5CD-E2C64D5BADD9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recursion Program", "Recursion Program", "{611E153D-4B1D-4AD6-972A-C3789EA15948}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recusion", "Recusion\Recusion.csproj", "{3F2F0AC7-EB5F-4A24-B20D-D83FFD5A7B6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recusion", "Recusion\Recusion.csproj", "{3F2F0AC7-EB5F-4A24-B20D-D83FFD5A7B6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String contains upper case letters", "String contains upper case letters\String contains upper case letters.csproj", "{3B8F8C7E-C82A-414E-91DF-E29C80E7D105}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +49,10 @@ Global
 		{3F2F0AC7-EB5F-4A24-B20D-D83FFD5A7B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F2F0AC7-EB5F-4A24-B20D-D83FFD5A7B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F2F0AC7-EB5F-4A24-B20D-D83FFD5A7B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B8F8C7E-C82A-414E-91DF-E29C80E7D105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8F8C7E-C82A-414E-91DF-E29C80E7D105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B8F8C7E-C82A-414E-91DF-E29C80E7D105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B8F8C7E-C82A-414E-91DF-E29C80E7D105}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
