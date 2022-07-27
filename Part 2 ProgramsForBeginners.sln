@@ -17,7 +17,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recursion Program", "Recurs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recusion", "Recusion\Recusion.csproj", "{3F2F0AC7-EB5F-4A24-B20D-D83FFD5A7B6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String contains upper case letters", "String contains upper case letters\String contains upper case letters.csproj", "{3B8F8C7E-C82A-414E-91DF-E29C80E7D105}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String contains upper case letters", "String contains upper case letters\String contains upper case letters.csproj", "{3B8F8C7E-C82A-414E-91DF-E29C80E7D105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse a string", "Reverse a string\Reverse a string.csproj", "{DFC12CAD-3028-4364-82D0-30634B2B297A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +55,10 @@ Global
 		{3B8F8C7E-C82A-414E-91DF-E29C80E7D105}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B8F8C7E-C82A-414E-91DF-E29C80E7D105}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B8F8C7E-C82A-414E-91DF-E29C80E7D105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC12CAD-3028-4364-82D0-30634B2B297A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC12CAD-3028-4364-82D0-30634B2B297A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC12CAD-3028-4364-82D0-30634B2B297A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC12CAD-3028-4364-82D0-30634B2B297A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
